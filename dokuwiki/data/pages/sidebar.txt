@@ -1,0 +1,17 @@
+[[start|Home]]
+
+----
+
+Wiki
+
+[[wiki:welcome|]]
+
+[[wiki:dokuwiki|]]
+
+[[wiki:syntax|]]
+
+----
+
+Playground
+
+[[playground:playground|]]
