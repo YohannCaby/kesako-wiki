@@ -1,0 +1,8 @@
+version: '3'
+services:
+  wiki:
+    image: php:apache
+    volumes:
+      - ./dokuwiki:/var/www/html
+    ports:
+      - 8080:80
